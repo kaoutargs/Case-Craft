@@ -1,0 +1,371 @@
+body {
+  background-color: #F6F6F9;
+  font-family: 'Montserrat', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#navbarNav a {
+  font-family: 'Montserrat Medium', sans-serif;
+  color: #A19DAF;
+}
+
+.banner {
+  height: 700px;
+  background-size: 100%;
+  margin-left: 50rem;
+}
+
+.phone {
+  margin-top: -30rem;
+  margin-right: 1rem;
+  display: block;
+}
+
+#text1 {
+  font-family: 'Montserrat SemiBold', sans-serif;
+  width:400px;
+  font-size:300%;
+  font-style: italic;
+  margin-left: -30rem;
+  color: #9672FB;
+}
+
+#text2 {
+  font-family: 'Montserrat SemiBold', sans-serif;
+  width:400px;
+  font-size:300%;
+  font-style: italic;
+  margin-left: -30rem;
+  color: #2F2651;
+}
+
+#text3 {
+ display: none;
+}
+
+#text4 {
+  display: none;
+}
+
+
+.screen2 {
+  background-image: url("img/app_screens2.png");
+  height: 600px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;}
+
+nav h4 {
+  font-family: 'Montserrat SemiBold';
+  font-style: italic;
+  margin-top:-35px;
+  margin-left: 40px;
+  color: #2F2651;
+}
+
+.superhero, .photos p {
+color: #7A7490;
+}
+
+.descrip {
+  margin-left: -1rem;
+
+}
+
+.atool {
+  font-family: 'Montserrat Medium';
+  color: #7A7490;
+}
+
+.getfull {
+  font-family: 'Montserrat Medium';
+  color: #7A7490;
+}
+
+/*button*/
+
+.btn-hover {
+    width: 200px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 55px;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+
+    border-radius: 50px;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    margin-left: 15rem;
+
+
+}
+
+.btn-hover:hover {
+    background-position: 100% 0;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.btn-hover:focus {
+    outline: none;
+}
+.btn-hover.color-3 {
+    background-image: linear-gradient(to right, #9672FB, #A772FB, #D072FB, #D772FB);
+    box-shadow: 0 4px 15px 0 rgba(116, 79, 168, 0.75);
+}
+
+/*button2*/
+
+.btn-hover2 {
+    width: 200px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 75px;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+
+    border-radius: 50px;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    margin-left: 15rem;
+}
+
+.btn-hover2:hover {
+    background-position: 100% 0;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.btn-hover2:focus {
+    outline: none;
+}
+.btn-hover2.color-3 {
+    background-image: linear-gradient(to right, #9672FB, #A772FB, #D072FB, #D772FB);
+    box-shadow: 0 4px 15px 0 rgba(116, 79, 168, 0.75);
+}
+
+.apple {
+  margin-top: 0.2rem;
+}
+
+.play {
+  margin-top: 0.8rem;
+}
+
+.btn-apple p {
+  font-size: 15px;
+  opacity: 70%;
+}
+
+.btn-playstore p {
+  font-size: 15px;
+  opacity: 70%;
+}
+
+.btn-apple {
+  margin-left: 22rem;
+  margin-top: 2rem;
+}
+
+.btn-playstore {
+  margin-left: 37rem;
+  margin-top: -7rem;
+}
+
+.img {
+  margin-left: 45rem;
+  margin-bottom: 100px;
+}
+
+.btn-download {
+  margin-left: -45rem;
+  margin-top: 3rem;
+}
+
+#tutorials h2 {
+  color: #2F2651;
+  font-family: 'Montserrat SemiBold', sans-serif;
+}
+
+#tutorials p {
+  color: #7A7490;
+  margin-left: 30rem;
+}
+
+.btn-howitworks {
+  margin-left: 2rem;
+}
+.superhero {
+  margin-left: 21rem;
+  margin-top: 3rem;
+}
+.superhero h1 {
+  color: #9672FB;
+  font-family: 'Montserrat SemiBold', sans-serif;
+}
+#screen3 {
+  margin-left: 30rem;
+}
+.photos {
+  margin-left: 21rem;
+}
+.photos h1 {
+  color: #9672FB;
+  font-family: 'Montserrat SemiBold', sans-serif;
+}
+#screen4 {
+  margin-right: 10rem;
+}
+.product h1 {
+  color: #9672FB;
+  font-family: 'Montserrat SemiBold', sans-serif;
+}
+
+.product p {
+  color: #7A7490;
+}
+
+.product {
+  margin-right:25rem;
+}
+
+.btn-product {
+  margin-left: -1rem;
+}
+
+.product-image {
+margin-left: 40rem;
+margin-top: -25rem;
+}
+
+.screen5 {
+  width: 100%;
+}
+
+.get-started {
+  font-family: 'Montserrat SemiBold', sans-serif;
+  color: #2F2651;
+}
+
+
+#footer h6 {
+  color: #2F2651;
+  margin-left: -0.2rem;
+}
+#footer a {
+  color: #A19DAF;
+  font-family:'Montserrat Medium';
+  text-decoration:none;
+  font-style: italic;
+}
+#footer h4 {
+  margin-top: -35px;
+  margin-left: 40px;
+  font-family: 'Montserrat SemiBold';
+}
+
+@media only screen and (max-width: 640px) {
+ * {
+   box-sizing: border-box;
+ }
+
+ .phone {
+   margin-top: -30rem;
+   margin-right: 1rem;
+   display: none;
+ }
+
+ #text1 {
+  display: none;
+ }
+
+ #text2 {
+   display: none;
+ }
+
+ #text3 {
+  display: block;
+  font-family: 'Montserrat SemiBold', sans-serif;
+  width:400px;
+  font-size:300%;
+  font-style: italic;
+  margin-left: -30rem;
+  color: #9672FB;
+ }
+
+ #text4 {
+   display: block;
+ }
+
+ #tutorials p {
+   color: #7A7490;
+   margin-left: 0.5rem;
+ }
+
+ .product-image {
+ margin-left: 0.1rem;
+ }
+
+.product {
+margin-left: 3rem;
+}
+
+ .btn-apple {
+   margin-left: -10rem;
+   margin-top: 2rem;
+ }
+
+ .btn-playstore {
+   margin-left: -10rem;
+   margin-top: 5rem;
+ }
+
+.landing {
+  margin-right: 5rem;
+}
+
+#phone_purple {
+  display: none;
+}
+
+.phone_pruple_mob{
+  background-image: url("img/phone_purple.png");
+  height: 600px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;}
+
+}
+
+ @viewport {
+    width: device-width; /* largeur du viewport */
+    zoom: 1;
+ }
+
+ @media (max-device-width:768px) and (orientation: landscape) {
+   html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+   }
+ }

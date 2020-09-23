@@ -128,7 +128,7 @@ $result= $req->fetch();
  <button type="button" class="btn-seemore btn-product btn-hover color-3 font-italic">See more products</button>
  </div>
 
-<img class='d-block w-80' src='<?=$result['image'] ?>' alt='First slide'>
+<img class='product-image d-block w-80' src='<?=$result['image'] ?>' alt='First slide'>
 <?php
 
 

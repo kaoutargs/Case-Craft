@@ -8,7 +8,7 @@
 
 
       <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3 ">
-        <img src="img/logo.png"  class="d-inline-block align-top" alt="logo" loading="lazy">
+        <img src="img/logo.png"  class="img-footer d-inline-block align-top" alt="logo" loading="lazy">
         <h4 class="font-italic">Casecraft</h4>
       </a>
           <ul class="list-unstyled list-inline">

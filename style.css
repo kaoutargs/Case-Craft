@@ -267,17 +267,18 @@ margin-top: -25rem;
   color: #2F2651;
 }
 
-
 #footer h6 {
   color: #2F2651;
   margin-left: -0.2rem;
 }
+
 #footer a {
   color: #A19DAF;
   font-family:'Montserrat Medium';
   text-decoration:none;
   font-style: italic;
 }
+
 #footer h4 {
   margin-top: -35px;
   margin-left: 40px;
@@ -288,6 +289,7 @@ margin-top: -25rem;
  * {
    box-sizing: border-box;
  }
+
 
  .phone {
    margin-top: -30rem;
@@ -322,9 +324,6 @@ margin-top: -25rem;
    margin-left: 0.5rem;
  }
 
- .product-image {
- margin-left: 0.1rem;
- }
 
 .product {
 margin-left: 3rem;
@@ -355,8 +354,18 @@ margin-left: 3rem;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;}
-
 }
+
+#footer h4 {
+  margin-top: -35px;
+  margin-left: 40px;
+  font-family: 'Montserrat SemiBold';
+}
+
+.img-footer {
+  margin-right: 120px;
+}
+
 
  @viewport {
     width: device-width; /* largeur du viewport */

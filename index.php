@@ -151,10 +151,10 @@ $result= $req->fetch();
 <br>
 
 <div id="download" class="d-flex justify-content-center">
-<h1 class="get-started font-italic">Get started now</h1>
+<h1 class="get-started font-italic col-lg-8">Get started now</h1>
 </div>
 <div class="btn-apple">
-  <button type="button" class="btn-hover2 color-3"> <img class="apple" src="img/logo_apple.png" alt="logo_apple"> <p>Download on the App Store</p> </button>
+  <button type="button" class="btn-hover2 color-3"> <img class="apple" src="img/logo_apple.png" alt="logo_apple"><p>Download on the App Store</p></button>
 </div>
 <div class="btn-playstore">
   <button type="button" class="btn-hover2 color-3"> <img class="play" src="img/logo_playstore.png" alt="logo_playstore"><p>Get it on Play Store</p></button>
